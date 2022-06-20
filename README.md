@@ -24,4 +24,4 @@ git reset fileName(if git add wrong file)
 
 git diff (check what was changed)
 
-git reset --hard(reset all changes after last git add )
+git reset --hard(reset all changes after last git commit )
