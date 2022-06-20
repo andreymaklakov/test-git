@@ -34,3 +34,4 @@ git pull repositoryUrl branchName(to add changes from github to local file)
 git branch -d branchName (to delete branch in local file)
 
 git merge branchName (to transfer code to main branch need to be on main branch and branchName is where is code transfered from(before transfer that branch must be pushed on github))
+then we make git push(no any add or commit)
