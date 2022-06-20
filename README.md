@@ -25,3 +25,11 @@ git reset fileName(if git add wrong file)
 git diff (check what was changed)
 
 git reset --hard(reset all changes after last git commit )
+<<<<<<< HEAD
+
+git branch newBranchName (to create new branch)
+git checkout BranchName(to change branch)
+
+git pull repositoryUrl branchName(to add changes from github to local file)
+=======
+>>>>>>> c427007778c3e68407e219bcf251df1d2ee36d21
