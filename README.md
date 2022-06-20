@@ -19,3 +19,9 @@ git push repositoryUrl branchName
 (repositoryUrl - git remote -v)
 (branchName - git branch)
 git push origin main
+
+git reset fileName(if git add wrong file)
+
+git diff (check what was changed)
+
+git reset --hard(reset all changes after last git add )
